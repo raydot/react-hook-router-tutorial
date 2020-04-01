@@ -1,3 +1,5 @@
+Getting started with the [React Hook Router](https://github.com/Paratron/hookrouter)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
