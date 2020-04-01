@@ -1,4 +1,6 @@
 Getting started with the [React Hook Router](https://github.com/Paratron/hookrouter)
+<hr />
+##Create React App Boilerplate
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
